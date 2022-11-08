@@ -1,0 +1,11 @@
+ul{
+  display: flex;
+}
+
+li {
+  display: inline-block;
+  margin: 0 10px;
+  a{
+    padding: 0px 5px;
+  }
+}
